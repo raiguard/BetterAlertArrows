@@ -6,6 +6,8 @@
 
 Improves the Factorio alert arrow graphics, and adds limited customization for them.
 
+![](screenshots/preview.png)
+
 ## Installation
 
 Download and install from the [mod portal](https://mods.factorio.com/mod/BetterAlertArrows).
