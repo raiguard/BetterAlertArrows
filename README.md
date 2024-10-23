@@ -4,7 +4,7 @@
 
 # Better Alert Arrows
 
-Improves the Factorio alert arrow graphics, and adds limited customization for them.
+Changes the Factorio alert arrow graphics to look like the pin arrows, and adds customizable tint and scale.
 
 ![](screenshots/preview.png)
 
