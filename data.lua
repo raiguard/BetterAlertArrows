@@ -1,7 +1,7 @@
 data.raw["utility-sprites"]["default"].alert_arrow = {
-  filename = "__BetterAlertArrows__/graphics/location-arrow.png",
-  size = 96,
-  scale = settings.startup["baa-arrow-scale"].value,
-  flags = {"gui-icon"},
-  tint = util.color(settings.startup["baa-arrow-tint"].value)
+  filename = "__BetterAlertArrows__/graphics/arrow.png",
+  size = { 42, 55 },
+  scale = settings.startup["baa-arrow-scale"].value --[[@as double]],
+  flags = { "gui-icon" },
+  tint = settings.startup["baa-arrow-tint"].value --[[@as Color]],
 }
